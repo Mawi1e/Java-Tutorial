@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Mawi1e!&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
   
 😀 Hello, everyone.   
-It's a self-study and tutorial about Java !
+It's a univ-study and tutorial about Java !
 
 ## 🗡️ Skills
 ### Platform & Languages
